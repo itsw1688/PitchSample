@@ -6,8 +6,10 @@
 
 @title[Customize Slide Layout]
 
+----
+
 @snap[west span-50]
-### Customize the Layout
+### Github Actionsの概要 
 
 - GitHub上で利用できるCI/CDサービスです。
 - 2019年11月に正式版がリリースしました。
