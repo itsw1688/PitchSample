@@ -8,6 +8,11 @@
 
 @snap[west span-50]
 ### Customize the Layout
+
+- GitHub上で利用できるCI/CDサービスです。
+- 2019年11月に正式版がリリースしました。
+- ワークフローはYAML構文のファイルで記述します。（ベータ版ではHCL構文）
+
 @snapend
 
 ---
