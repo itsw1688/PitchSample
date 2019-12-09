@@ -6,7 +6,7 @@
 
 @title[Customize Slide Layout]
 
-----
+---
 
 @snap[west span-50]
 ### Github Actionsの概要 
