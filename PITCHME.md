@@ -4,23 +4,13 @@
 
 #### Github Actionsの概要 
 
-@title[Customize Slide Layout]
-
 ---
-@title[Customize Slide Layout]
+
 #### Github Actionsの概要 
 
 - GitHub上で利用できるCI/CDサービスです。|
 - 2019年11月に正式版がリリースしました。|
 - ワークフローはYAML構文のファイルで記述します。（ベータ版ではHCL構文）|
-
-@snap[west span-100]
-
-- GitHub上で利用できるCI/CDサービスです。|
-- 2019年11月に正式版がリリースしました。|
-- ワークフローはYAML構文のファイルで記述します。（ベータ版ではHCL構文）|
-
-@snapend
 
 ---
 
