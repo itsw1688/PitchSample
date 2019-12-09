@@ -2,7 +2,7 @@
 
 ---
 
-### Github Actionsの概要 
+#### Github Actionsの概要 
 
 @title[Customize Slide Layout]
 
