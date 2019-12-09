@@ -1,13 +1,13 @@
-# Github Actions Doc
+## Github Actions Doc
 
 ---
 
-## Github Actionsの概要 
+### Github Actionsの概要 
 
 @title[Customize Slide Layout]
 
 @snap[west span-50]
-## Customize the Layout
+### Customize the Layout
 @snapend
 
 ---
