@@ -10,6 +10,8 @@
 
 #### Github Actionsの概要 
 
+@title[Customize Slide Layout]
+
 @snap[west span-100]
 
 - GitHub上で利用できるCI/CDサービスです。
