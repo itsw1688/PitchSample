@@ -1,4 +1,4 @@
-## Github Actions Doc
+### Github Actions Doc
 
 ---
 
@@ -8,8 +8,8 @@
 
 ---
 
-@snap[west span-50]
-### Github Actionsの概要 
+@snap[west span-100]
+#### Github Actionsの概要 
 
 - GitHub上で利用できるCI/CDサービスです。
 - 2019年11月に正式版がリリースしました。
